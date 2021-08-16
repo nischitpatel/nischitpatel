@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @nischitpatel
-- 👀 I’m interested in Data structures and algorithms, web development, app development
-- 🌱 I’m currently learning flutter technology
-
-<!---
-nischitpatel/nischitpatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hi, I am Nischit Patel</h1>
+<h2>Profile :</h2>
+ <ul>Focused and quick learner with good knowledge in C, C++, Python and Data structures and algorithms.</ul>
+<h2>Education :</h2>
+ <ul>Pursuing Bachelors of Computer engineering from Atharva college of engineering, University of Mumbai.</ul>
+<h2>To connect :</h2>
+<li>GitHub : http://github.com/nischitpatel
+<li>LinkedIn : https://www.linkedin.com/in/nischit-patel-56232517b
+<h2>Skills :</h2>
+<li>Languages :
+        <ul>C, C++, Python</ul>
+<li>Tools:
+        <ul>VS-Code, PyCharm, GitHub</ul>
+<li>Concepts:
+        <ul>Data structures and algorithms, File handling techniques, OOP's</ul>
+<li>Operating System:
+        <ul>Windows, Linux</ul>
