@@ -5,7 +5,7 @@
  <ul>Pursuing Bachelors of Computer engineering from Atharva college of engineering, University of Mumbai.</ul>
 <h2>To connect :</h2>
 <li>GitHub : http://github.com/nischitpatel
-<li>LinkedIn : https://www.linkedin.com/in/nischit-patel-56232517b
+<li>LinkedIn : https://www.linkedin.com/in/nischit-patel
 <h2>Skills :</h2>
 <li>Languages :
         <ul>C, C++, Python</ul>
