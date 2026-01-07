@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nischit</h1>
-<h3 align="center">A passionate Full stack developer building chrome extensions, web apps, and automation tools that improves our daily life.</h3>
+<h3 align="center">A passionate Full stack developer building web apps, and chrome extensions that improves our daily life.</h3>
 
 - 👨‍💻 Portfolio [nischitpatel.netlify.app](https://nischitpatel.netlify.app/)
 
